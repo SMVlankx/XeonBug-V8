@@ -16,13 +16,13 @@ global.ytname = "YT: GlobalTechInfo"
 global.socialm = "GitHub: GlobalTechInfo"
 global.location = "Pakistan, Karachi, Karachi"
 
-global.ownernumber = '923444844060'  //creator number
-global.ownername = 'Qasim Ali' //owner name
-global.botname = 'XeonBug-V8' //name of the bot
+global.ownernumber = '917628849711'  //creator number
+global.ownername = 'VXezz' //owner name
+global.botname = 'VXBug' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'GlobalTech\n\nContact: +923444844060'
+global.author = 'GlobalTech\n\nContact: +917628849711'
 
 //console view/theme
 global.themeemoji = '🪀'
